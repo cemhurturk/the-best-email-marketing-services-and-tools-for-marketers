@@ -48,3 +48,11 @@ However, with so many email marketing services and tools available, it can be di
 ## Email Marketing Knowledgebase & Articles
 
 * [EmailMarketer.io](https://emailmarketer.io/)
+
+## Email Testing & Preview Services
+
+* [Litmus](https://www.litmus.com/)
+
+## Other Email Tools
+
+* [CSS Inliner Tool](https://templates.mailchimp.com/resources/inline-css/)
