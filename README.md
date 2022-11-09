@@ -39,15 +39,21 @@ However, with so many email marketing services and tools available, it can be di
 * [Make](https://www.make.com/)
 * [n8n](https://n8n.io/)
 
-## Drag-n-Drop Email Builders
+## Drag-n-Drop Email Builders & Coding Platforms
 
 * [Stripo](https://stripo.email/)
 * [Unlayer](https://unlayer.com/)
 * [Beefree](https://beefree.io/)
+* [Parcel](https://parcel.io/)
 
 ## Email Marketing Knowledgebase & Articles
 
 * [EmailMarketer.io](https://emailmarketer.io/)
+* [Really Good Emails](https://reallygoodemails.com/)
+* [Good Sales Emails](https://goodsalesemails.com/)
+* [Business Email Templates](https://artofemails.com/)
+* [Just Good Copy](https://www.goodemailcopy.com/)
+* [Word To The Wise](https://wordtothewise.com)
 
 ## Email Testing & Preview Services
 
@@ -56,3 +62,12 @@ However, with so many email marketing services and tools available, it can be di
 ## Other Email Tools
 
 * [CSS Inliner Tool](https://templates.mailchimp.com/resources/inline-css/)
+* [Responsive Email Inliner Tool](https://htmlemail.io/inline/)
+
+## Email Marketing & Email Delivery Events
+
+* [Inbox Expo](https://inboxexpo.com/)
+
+## FBL Programs
+
+* [FBL Program List](https://wordtothewise.com/isp-information/)
