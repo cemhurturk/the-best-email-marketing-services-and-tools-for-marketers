@@ -57,6 +57,7 @@ However, with so many email marketing services and tools available, it can be di
 
 ## Email Testing & Preview Services
 
+* [QuickTests](https://quicktests.email/)
 * [Litmus](https://www.litmus.com/)
 
 ## Other Email Tools
