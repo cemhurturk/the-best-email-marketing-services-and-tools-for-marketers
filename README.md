@@ -72,3 +72,11 @@ However, with so many email marketing services and tools available, it can be di
 ## FBL Programs
 
 * [FBL Program List By Word To The Wise](https://wordtothewise.com/isp-information/)
+
+## MTA Softwares
+
+* [Postfix](https://www.postfix.org/)
+* [PowerMTA](https://www.sparkpost.com/powermta/)
+* [GreenArrow MTA](https://www.greenarrowemail.com/)
+* [Halon MTA](https://halon.io/)
+* [Postal](https://github.com/postalserver/postal)
