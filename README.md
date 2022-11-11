@@ -11,6 +11,8 @@ However, with so many email marketing services and tools available, it can be di
 * [GetResponse](https://getresponse.com/)
 * [Aweber](https://aweber.com/)
 * [MailerLite](https://mailerlite.com/)
+* [BuilderAll](https://builderall.com/)
+* [Dyspatch](https://www.dyspatch.io/)
 
 ## Self-Hosted Email Marketing Softwares
 
@@ -19,6 +21,13 @@ However, with so many email marketing services and tools available, it can be di
 * [MailWizz](https://www.mailwizz.com/)
 * [Sendy](https://sendy.co/)
 * [Mautic](https://www.mautic.org/)
+
+## Relaying Services
+* [Amazon SES](https://aws.amazon.com/ses/)
+* [Sendgrid](https://sendgrid.com/)
+* [Sparkpost](https://www.sparkpost.com/)
+* [Mailgun](https://www.mailgun.com/)
+* [Elasticemail](https://elasticemail.com/)
 
 ## Email List Verification Services
 
