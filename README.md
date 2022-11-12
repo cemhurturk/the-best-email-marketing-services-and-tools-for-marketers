@@ -13,6 +13,10 @@ However, with so many email marketing services and tools available, it can be di
 * [MailerLite](https://mailerlite.com/)
 * [BuilderAll](https://builderall.com/)
 * [Dyspatch](https://www.dyspatch.io/)
+* [Klaviyo](https://www.klaviyo.com/)
+* [Constant Contact](https://www.constantcontact.com/)
+* [Omnisend](https://www.omnisend.com/)
+* [Ontraport](https://ontraport.com/)
 
 ## Self-Hosted Email Marketing Softwares
 
@@ -28,11 +32,14 @@ However, with so many email marketing services and tools available, it can be di
 * [Sparkpost](https://www.sparkpost.com/)
 * [Mailgun](https://www.mailgun.com/)
 * [Elasticemail](https://elasticemail.com/)
+* [Mailjet](https://www.mailjet.com/)
+* [Alibaba](https://www.alibabacloud.com/campaign/enterprise-message)
 
 ## Email List Verification Services
 
 * [Cleanify](https://cleanify.io/)
 * [Kickbox](https://kickbox.com/)
+* [Never Bounce](https://neverbounce.com)
 
 ## Email Delivery Health & Reputation Monitoring Services
 
