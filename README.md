@@ -17,6 +17,9 @@ However, with so many email marketing services and tools available, it can be di
 * [Constant Contact](https://www.constantcontact.com/)
 * [Omnisend](https://www.omnisend.com/)
 * [Ontraport](https://ontraport.com/)
+* [Campaign Monitor](https://www.campaignmonitor.com/)
+* [Dot Digital](https://dotdigital.com/)
+* [Listrak](https://www.listrak.com/)
 
 ## Self-Hosted Email Marketing Softwares
 
@@ -96,3 +99,10 @@ However, with so many email marketing services and tools available, it can be di
 * [GreenArrow MTA](https://www.greenarrowemail.com/)
 * [Halon MTA](https://halon.io/)
 * [Postal](https://github.com/postalserver/postal)
+
+
+---
+
+### Contributors
+
+Thanks for their contributions to this list: [StrikeFriently](https://www.reddit.com/user/StrikeFriently/)
