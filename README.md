@@ -20,6 +20,7 @@ However, with so many email marketing services and tools available, it can be di
 * [Campaign Monitor](https://www.campaignmonitor.com/)
 * [Dot Digital](https://dotdigital.com/)
 * [Listrak](https://www.listrak.com/)
+* [ConvertKit](https://convertkit.com/)
 
 ## Self-Hosted Email Marketing Softwares
 
