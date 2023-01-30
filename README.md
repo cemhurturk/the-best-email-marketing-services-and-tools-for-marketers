@@ -29,6 +29,7 @@ However, with so many email marketing services and tools available, it can be di
 * [MailWizz](https://www.mailwizz.com/)
 * [Sendy](https://sendy.co/)
 * [Mautic](https://www.mautic.org/)
+* [List Monk](https://listmonk.app/)
 
 ## Relaying Services
 * [Amazon SES](https://aws.amazon.com/ses/)
