@@ -22,6 +22,7 @@ However, with so many email marketing services and tools available, it can be di
 * [Listrak](https://www.listrak.com/)
 * [ConvertKit](https://convertkit.com/)
 * [EmailOctopus](https://emailoctopus.com/)
+* [OptiPub](https://www.optipub.com/)
 
 ## Self-Hosted Email Marketing Softwares
 
@@ -51,6 +52,7 @@ However, with so many email marketing services and tools available, it can be di
 ## Email Delivery Health & Reputation Monitoring Services
 
 * [IPMonitor](https://ipmonitor.app/)
+* [Postmaster+](https://www.optipub.com/postmaster-plus)
 
 ## Instant Blacklist Scan Tools
 
