@@ -40,6 +40,7 @@ However, with so many email marketing services and tools available, it can be di
 * [Elasticemail](https://elasticemail.com/)
 * [Mailjet](https://www.mailjet.com/)
 * [Alibaba](https://www.alibabacloud.com/campaign/enterprise-message)
+* [Sendamatic](https://www.sendamatic.net/)
 
 ## Email List Verification Services
 
