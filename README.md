@@ -23,6 +23,7 @@ However, with so many email marketing services and tools available, it can be di
 * [ConvertKit](https://convertkit.com/)
 * [EmailOctopus](https://emailoctopus.com/)
 * [OptiPub](https://www.optipub.com/)
+* [Buttondown](https://buttondown.email)
 
 ## Self-Hosted Email Marketing Softwares
 
@@ -42,6 +43,7 @@ However, with so many email marketing services and tools available, it can be di
 * [Mailjet](https://www.mailjet.com/)
 * [Alibaba](https://www.alibabacloud.com/campaign/enterprise-message)
 * [Sendamatic](https://www.sendamatic.net/)
+* [Resend](https://resend.com)
 
 ## Email List Verification Services
 
