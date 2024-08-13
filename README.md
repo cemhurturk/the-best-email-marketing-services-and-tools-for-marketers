@@ -24,6 +24,7 @@ However, with so many email marketing services and tools available, it can be di
 * [EmailOctopus](https://emailoctopus.com/)
 * [OptiPub](https://www.optipub.com/)
 * [Buttondown](https://buttondown.email)
+* [Mailpost](https://mailpost.io/)
 
 ## Self-Hosted Email Marketing Softwares
 
@@ -55,6 +56,7 @@ However, with so many email marketing services and tools available, it can be di
 
 * [IPMonitor](https://ipmonitor.app/)
 * [Postmaster+](https://www.optipub.com/postmaster-plus)
+* [Unspam](https://unspam.email/)
 
 ## Instant Blacklist Scan Tools
 
@@ -68,6 +70,7 @@ However, with so many email marketing services and tools available, it can be di
 
 ## Drag-n-Drop Email Builders & Coding Platforms
 
+* [Postcards](https://designmodo.com/postcards/)
 * [Stripo](https://stripo.email/)
 * [Unlayer](https://unlayer.com/)
 * [Beefree](https://beefree.io/)
@@ -82,6 +85,7 @@ However, with so many email marketing services and tools available, it can be di
 * [Business Email Templates](https://artofemails.com/)
 * [Just Good Copy](https://www.goodemailcopy.com/)
 * [Word To The Wise](https://wordtothewise.com)
+* [Designmodo](https://designmodo.com/email/email-marketing/)
 
 ## Email Testing & Preview Services
 
