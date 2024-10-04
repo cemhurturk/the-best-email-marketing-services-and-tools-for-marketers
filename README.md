@@ -51,6 +51,7 @@ However, with so many email marketing services and tools available, it can be di
 * [Cleanify](https://cleanify.io/)
 * [Kickbox](https://kickbox.com/)
 * [Never Bounce](https://neverbounce.com)
+* [Heybounce](https://www.heybounce.io)
 
 ## Email Delivery Health & Reputation Monitoring Services
 
