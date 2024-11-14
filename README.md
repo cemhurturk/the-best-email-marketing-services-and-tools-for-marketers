@@ -52,6 +52,7 @@ However, with so many email marketing services and tools available, it can be di
 * [Kickbox](https://kickbox.com/)
 * [Never Bounce](https://neverbounce.com)
 * [Heybounce](https://www.heybounce.io)
+* [CampaignKit](https://campaignkit.cc)
 
 ## Email Delivery Health & Reputation Monitoring Services
 
