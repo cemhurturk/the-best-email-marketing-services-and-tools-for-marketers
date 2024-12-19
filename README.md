@@ -25,6 +25,7 @@ However, with so many email marketing services and tools available, it can be di
 * [OptiPub](https://www.optipub.com/)
 * [Buttondown](https://buttondown.email)
 * [Mailpost](https://mailpost.io/)
+* [ReachMail](https://reachmail.com/)
 
 ## Self-Hosted Email Marketing Softwares
 
@@ -45,6 +46,7 @@ However, with so many email marketing services and tools available, it can be di
 * [Alibaba](https://www.alibabacloud.com/campaign/enterprise-message)
 * [Sendamatic](https://www.sendamatic.net/)
 * [Resend](https://resend.com)
+* [ReachMail Easy-SMTP](https://reachmail.com/solutions/email-relay/)
 
 ## Email List Verification Services
 
