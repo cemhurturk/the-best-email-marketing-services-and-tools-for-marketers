@@ -120,6 +120,7 @@ However, with so many email marketing services and tools available, it can be di
 * [GreenArrow MTA](https://www.greenarrowemail.com/)
 * [Halon MTA](https://halon.io/)
 * [Postal](https://github.com/postalserver/postal)
+* [KumoMTA](https://kumomta.com/)
 
 
 ---
