@@ -27,6 +27,10 @@ However, with so many email marketing services and tools available, it can be di
 * [Mailpost](https://mailpost.io/)
 * [ReachMail](https://reachmail.com/)
 
+## Email Infrastructue For Cold Emailing
+
+* [LaunchMailbox](https://launchmailbox.com)
+
 ## Self-Hosted Email Marketing Softwares
 
 * [Octeth](https://octeth.com/)
