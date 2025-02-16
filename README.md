@@ -99,6 +99,9 @@ However, with so many email marketing services and tools available, it can be di
 
 * [QuickTests](https://quicktests.email/)
 * [Litmus](https://www.litmus.com/)
+* [AboutMy.Email](https://aboutmy.email/)
+* [Testi@](https://testi.at/)
+* [Email On Acid](https://www.emailonacid.com/)
 
 ## Other Email Tools
 
