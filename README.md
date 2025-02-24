@@ -84,6 +84,7 @@ However, with so many email marketing services and tools available, it can be di
 * [Beefree](https://beefree.io/)
 * [Parcel](https://parcel.io/)
 * [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker)
+* [Shootmail](https://shootmail.app)
 
 ## Email Marketing Knowledgebase & Articles
 
