@@ -34,9 +34,13 @@ However, with so many email marketing services and tools available, it can be di
 
 ## Self-Hosted Email Marketing Softwares
 
-- [List Monk](https://listmonk.app/)
+### Fully Free and Open Source
+- [Keila](https://www.keila.io/)
+- [listmonk](https://listmonk.app/)
+- [Mautic](https://www.mautic.org/) (more advanced with lead management)
+
+### Proprietary
 - [MailWizz](https://www.mailwizz.com/)
-- [Mautic](https://www.mautic.org/)
 - [Octeth](https://octeth.com/)
 - [Octeth Community License](https://octeth.com/community-license/)
 - [Sendy](https://sendy.co/)
