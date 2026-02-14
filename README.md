@@ -27,6 +27,7 @@ However, with so many email marketing services and tools available, it can be di
 - [OptiPub](https://www.optipub.com/)
 - [ReachMail](https://reachmail.com/)
 - [Sendloop](https://sendloop.com/)
+- [Sequenzy](https://sequenzy.com/)
 
 ## Email Infrastructue For Cold Emailing
 
