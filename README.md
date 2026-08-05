@@ -69,6 +69,7 @@ However, with so many email marketing services and tools available, it can be di
 
 ## Email Delivery Health & Reputation Monitoring Services
 
+- [Canny Pigeons](https://cannypigeons.com)
 - [IPMonitor](https://ipmonitor.app/)
 - [Postmaster+](https://www.optipub.com/postmaster-plus)
 - [Unspam](https://unspam.email/)
