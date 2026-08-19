@@ -73,6 +73,7 @@ However, with so many email marketing services and tools available, it can be di
 - [IPMonitor](https://ipmonitor.app/)
 - [Postmaster+](https://www.optipub.com/postmaster-plus)
 - [Unspam](https://unspam.email/)
+- [Inboxproof](https://geographic-resulting-asian-archives.trycloudflare.com/) - Free email deliverability audit (MX, SPF, DKIM, DMARC, TLS, IP reputation) with a 0-100 score, exact fix records, and daily monitoring
 
 ## Instant Blacklist Scan Tools
 
