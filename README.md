@@ -53,6 +53,7 @@ However, with so many email marketing services and tools available, it can be di
 - [Elasticemail](https://elasticemail.com/)
 - [Mailgun](https://www.mailgun.com/)
 - [Mailjet](https://www.mailjet.com/)
+- [Pharos.email](https://pharos.email/)
 - [ReachMail Easy-SMTP](https://reachmail.com/solutions/email-relay/)
 - [Resend](https://resend.com)
 - [Sendamatic](https://www.sendamatic.net/)
