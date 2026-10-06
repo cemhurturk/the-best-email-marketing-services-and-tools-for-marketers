@@ -22,6 +22,7 @@ However, with so many email marketing services and tools available, it can be di
 - [Mailchimp](https://mailchimp.com/)
 - [MailerLite](https://mailerlite.com/)
 - [Mailpost](https://mailpost.io/)
+- [MisarMail](https://misarmail.com/)
 - [Omnisend](https://www.omnisend.com/)
 - [Ontraport](https://ontraport.com/)
 - [OptiPub](https://www.optipub.com/)
