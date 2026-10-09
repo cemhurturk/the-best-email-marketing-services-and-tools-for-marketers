@@ -74,6 +74,7 @@ However, with so many email marketing services and tools available, it can be di
 - [IPMonitor](https://ipmonitor.app/)
 - [Postmaster+](https://www.optipub.com/postmaster-plus)
 - [Unspam](https://unspam.email/)
+- [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 
 ## Instant Blacklist Scan Tools
 
