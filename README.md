@@ -58,6 +58,7 @@ However, with so many email marketing services and tools available, it can be di
 - [Resend](https://resend.com)
 - [Sendamatic](https://www.sendamatic.net/)
 - [Sendgrid](https://sendgrid.com/)
+- [SMTPCart](https://smtpcart.com/)
 - [Sparkpost](https://www.sparkpost.com/)
 
 ## Email List Verification Services
@@ -78,6 +79,7 @@ However, with so many email marketing services and tools available, it can be di
 ## Instant Blacklist Scan Tools
 
 - [MultiRBL](http://multirbl.valli.org/)
+- [SMTPCart Mail Tester](https://smtpcart.com/mail-audit/)
 
 ## Third Party Integration Services
 
