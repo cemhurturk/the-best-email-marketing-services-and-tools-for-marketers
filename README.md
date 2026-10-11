@@ -12,6 +12,7 @@ However, with so many email marketing services and tools available, it can be di
 - [Campaign Monitor](https://www.campaignmonitor.com/)
 - [Constant Contact](https://www.constantcontact.com/)
 - [ConvertKit](https://convertkit.com/)
+- [day3](https://day3.app/)
 - [DirectIQ](https://www.directiq.com/)
 - [Dot Digital](https://dotdigital.com/)
 - [Dyspatch](https://www.dyspatch.io/)
