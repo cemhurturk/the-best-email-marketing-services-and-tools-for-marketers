@@ -73,6 +73,7 @@ However, with so many email marketing services and tools available, it can be di
 - [Canny Pigeons](https://cannypigeons.com)
 - [IPMonitor](https://ipmonitor.app/)
 - [Postmaster+](https://www.optipub.com/postmaster-plus)
+- [SolidPing](https://www.solidping.io)
 - [Unspam](https://unspam.email/)
 
 ## Instant Blacklist Scan Tools
