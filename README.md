@@ -62,6 +62,7 @@ However, with so many email marketing services and tools available, it can be di
 
 ## Email List Verification Services
 
+- [Bulk Email Validator (no SMTP)](https://apify.com/pennydata/bulk-email-validator-no-smtp)
 - [CampaignKit](https://campaignkit.cc)
 - [Cleanify](https://cleanify.io/)
 - [Heybounce](https://www.heybounce.io)
