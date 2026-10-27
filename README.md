@@ -18,6 +18,7 @@ However, with so many email marketing services and tools available, it can be di
 - [EmailOctopus](https://emailoctopus.com/)
 - [GetResponse](https://getresponse.com/)
 - [Klaviyo](https://www.klaviyo.com/)
+- [Kicklace](https://kicklace.com/)
 - [Listrak](https://www.listrak.com/)
 - [Mailchimp](https://mailchimp.com/)
 - [MailerLite](https://mailerlite.com/)
@@ -117,6 +118,7 @@ However, with so many email marketing services and tools available, it can be di
 
 - [CSS Inliner Tool](https://templates.mailchimp.com/resources/inline-css/)
 - [Responsive Email Inliner Tool](https://htmlemail.io/inline/)
+- [Welcome Email Generator](https://kicklace.com/welcome-email-generator)
 
 ## Email Marketing & Email Delivery Events
 
