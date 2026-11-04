@@ -103,6 +103,7 @@ However, with so many email marketing services and tools available, it can be di
 - [Good Sales Emails](https://goodsalesemails.com/)
 - [Just Good Copy](https://www.goodemailcopy.com/)
 - [Really Good Emails](https://reallygoodemails.com/)
+- [They Sent It](https://theysentit.com/) - Free archive of nearly 2 million marketing emails from 50,000 brands, with how often each brand sends and the platform it uses.
 - [Word To The Wise](https://wordtothewise.com)
 
 ## Email Testing & Preview Services
