@@ -117,6 +117,7 @@ However, with so many email marketing services and tools available, it can be di
 
 - [CSS Inliner Tool](https://templates.mailchimp.com/resources/inline-css/)
 - [Responsive Email Inliner Tool](https://htmlemail.io/inline/)
+- [SPF Record Generator](https://bestlatestapps.com/tools/spf-record-generator/)
 
 ## Email Marketing & Email Delivery Events
 
