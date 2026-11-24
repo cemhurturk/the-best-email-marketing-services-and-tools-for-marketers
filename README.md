@@ -116,6 +116,7 @@ However, with so many email marketing services and tools available, it can be di
 ## Other Email Tools
 
 - [CSS Inliner Tool](https://templates.mailchimp.com/resources/inline-css/)
+- [Drip Send](https://apps.apple.com/us/app/drip-send-email-outreach/id6761376058) (Mac app for small, personal outreach sequences sent from your own mailbox)
 - [Responsive Email Inliner Tool](https://htmlemail.io/inline/)
 
 ## Email Marketing & Email Delivery Events
