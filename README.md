@@ -59,6 +59,7 @@ However, with so many email marketing services and tools available, it can be di
 - [Sendamatic](https://www.sendamatic.net/)
 - [Sendgrid](https://sendgrid.com/)
 - [Sparkpost](https://www.sparkpost.com/)
+- [Transmitly](https://transmitly.io/)
 
 ## Email List Verification Services
 
